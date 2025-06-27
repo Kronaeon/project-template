@@ -1,0 +1,11 @@
+
+# Ignore scratch test file that may interact with primary code (for tests)
+ProjectNameMain/testArea.*
+
+# Ignore scratch/experimental folders
+commitstuff/
+PlayGround/
+
+# Ignore MAC META DATA IF ON MAC.
+.DS_Store
+
